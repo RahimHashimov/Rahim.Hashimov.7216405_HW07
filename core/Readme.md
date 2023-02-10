@@ -24,8 +24,8 @@ Here I have created the questions below:
 ```
 # Creating an admin user
 ## Login information:
->Username:`admin`
->Password: `password`
+>Username:`admin`<br>
+>Password: `password`<br>
 # Identification info
->Name: Rahim Hashimov
->Matriculation Number: `7216405`
+Name: Rahim Hashimov <br>
+Matriculation Number: `7216405`<br>
