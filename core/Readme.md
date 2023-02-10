@@ -23,9 +23,9 @@ Here I have created the questions below:
 3. Are you statisfied with Compact Programming course?
 ```
 # Creating an admin user
-Login information:
-Username:`admin`
-Password: `password`
+## Login information:
+>Username:`admin`
+>Password: `password`
 # Identification info
-Name: Rahim Hashimov
-Matriculation Number: `7216405`
+>Name: Rahim Hashimov
+>Matriculation Number: `7216405`
